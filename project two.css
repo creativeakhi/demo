@@ -1,0 +1,80 @@
+.top{
+    background-image: url(./img/download.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    width: 1000px;
+}
+.page h1{
+    text-align: center;
+    font-weight: 10px;
+    color: rgb(100, 47, 47);
+}
+.page h5{
+    text-align: center;
+    font-size: small;
+}
+.page h6{
+    text-align: center;
+    font-size: small;
+    color: rgb(129, 63, 63);
+}
+.page a{
+    color: yellowgreen;
+}
+.row{
+    position: relative;
+    top: 100px;
+    height: 345px;
+    background-color: aquamarine;
+    width: 1014px;
+ }
+
+.one img{
+    top: -50px;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    border-radius: 300%;
+    margin-left: 32px;
+}
+.two img{
+    top: -50px;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    border-radius: 300%;
+    margin-left: 32px;  
+}
+.three img{
+    top: -50px;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    border-radius: 300%;
+    margin-left: 32px;
+}
+.one h3{
+    position: relative;
+    left: 75px;
+    top: -30px;
+}
+.two h3{
+    position: relative;
+    left: 66px;
+    top: -30px;
+}
+.three h3{
+    position: relative;
+    left: 90px;
+    top: -30px;
+}
+.scale a{
+    text-decoration: none;
+    color: #f8f3f3;
+    background-color: rgb(99, 81, 201);
+    padding: 9px 40px;
+    font-size: 20px;
+    font-weight: 200;
+    margin-left: 380px;
+}

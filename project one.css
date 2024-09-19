@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*first project start*/
+.hero{
+    background-color: #f2f2f2;
+    height: 2220px;
+}
+.all{
+    position: relative;
+    top: 70px;
+    margin-left: 100px;
+}
+.tmou{
+    background-image: url(./img/ladies-fashion\ pic.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 95%;
+}
+.style{
+    position: relative;
+    top: 100px;
+}
+.style h3{
+    position: relative;
+    top: -78px;
+    left: 22px;
+    color: #718386;
+    font-family: monospace, sans-serif;
+    font-size: 25px;
+}
+.style h1{
+    position: relative;
+    font-size: 6rem;
+    top: -80px;
+    left: 15px;
+    font-weight: 700;
+    font-family: monospace, sans-serif;
+    color: #796ee0;
+    line-height: 1.1;
+}
+.style h4{
+    position: relative;
+    font-size: 50px;
+    top: -69px;
+    left: 20px;
+    font-weight: normal;
+    color: #9391a3;
+    padding: 0;
+    letter-spacing: 2px;
+}
+.style p{
+    top: -64px;
+    left: 44px;
+    line-height: 33px;
+    font-family: 'open sans',sans-serif;
+    color: #947df1;
+}
+.style a{
+   color: rgb(195, 205, 50); 
+   text-decoration: none;
+   text-transform: capitalize;
+}
+.style h2{
+    position: relative;
+    font-size: 6rem;
+    top: -60px;
+    font-family: monospace, sans-serif;
+    margin-left: 539px;
+    color: #5d7caa;
+    left: -180px;
+}
+.scale{
+    top: 14px;
+    position: relative;
+    width: 415px;
+    margin-left: 320px;
+    background-color: #d3e2e7;
+    height: 239px;
+    padding: 79px;
+    line-height: 56px;
+    text-align: center;
+    font-size: 24px;
+}
+.scale a{
+    text-decoration: none;
+    color: #000000c0;
+    background-color: yellow;
+    padding: 9px 40px;
+    font-size: 20px;
+    font-weight: 200;
+}
+.parent img{
+    margin-left: 62px;
+    margin-top: 80px;
+}
